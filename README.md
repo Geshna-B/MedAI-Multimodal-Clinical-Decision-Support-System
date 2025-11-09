@@ -61,20 +61,20 @@ python main.py
 
 ## Output
 
-### 🧠 Streamlit Dashboard
+### Streamlit Dashboard
 
-![UI Screenshot](screenshots/dashboard.png)
+![UI Screenshot](output/interface1.png)
+![UI Screenshot](output/interface2.png)
 
-### 🩻 Example Case: Chest X-Ray – Pneumonia
 
-![Result Screenshot](screenshots/pneumonia_result.png)
+### Example Case: Chest X-Ray – Pneumonia
 
-### 📄 JSON Output Sample
+![Result Screenshot](output/xray.png)
 
-![JSON Screenshot](screenshots/json_output.png)
+### Chatbot
 
-*(Place your real screenshots in the `screenshots/` folder with these names.)*
-
+![Result Screenshot](output/q&a1.png)
+![Result Screenshot](output/q&a2.png)
 
 
 ## Troubleshooting
