@@ -1,0 +1,22 @@
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run in CLI mode (process all 5 cases):
+   python main.py YOUR_GROQ_API_KEY YOUR_GEMINI_API_KEY
+
+3. Run in UI mode (web dashboard):
+      python main.py
+      Then enter API keys in terminal when asked
+
+API KEYS REQUIRED:
+------------------
+- Groq API Key (for Llama 3.1 via Groq)
+- Gemini API Key (for Google Gemini)
+
+USAGE EXAMPLES:
+---------------
+# Process all 5 cases automatically:
+python main.py gsk_abc123... AIzaSyxyz456...
+
+# Enter keys manually and launch UI:
+python main.py
