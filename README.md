@@ -65,6 +65,7 @@ python main.py
 
 ![UI Screenshot](output/interface1.png)
 ![UI Screenshot](output/interface2.png)
+![UI Screenshot](output/interface3.png)
 
 
 ### Example Case: Chest X-Ray – Pneumonia
