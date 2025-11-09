@@ -1,0 +1,19 @@
+Patient: Michael Chen, 28 years
+Diagnosis: Acute appendicitis, post-appendectomy
+Symptoms: Right lower quadrant pain, nausea, fever (post-operative day 2)
+
+Medications:
+- Cefazolin 1g IV every 8 hours for 24 hours
+- Metronidazole 500mg IV every 8 hours for 24 hours
+- Morphine 2-4mg IV every 4 hours as needed for pain
+- Acetaminophen 1000mg IV every 6 hours
+- Ibuprofen 600mg every 6 hours
+- Docusate sodium 100mg twice daily
+
+Instructions:
+- Advance diet as tolerated
+- Incentive spirometry every 2 hours while awake
+- Ambulate with assistance
+- Monitor incision for signs of infection
+- Discharge with oral antibiotics if afebrile for 24 hours
+- Surgical follow up in 2 weeks

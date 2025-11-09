@@ -1,0 +1,17 @@
+Patient: Robert Brown, 68 years
+Diagnosis: Severe osteoarthritis, right knee
+Symptoms: Right knee pain, stiffness, reduced mobility, crepitus
+
+Medications:
+- Acetaminophen 1000mg - three times daily
+- Meloxicam 15mg - once daily with food
+- Capsaicin cream 0.025% - apply to knee three times daily
+- Glucosamine-Chondroitin 1500mg/1200mg - once daily
+
+Instructions:
+- Weight reduction recommended
+- Low-impact exercises (swimming, cycling)
+- Use walking aid as needed
+- Physical therapy referral
+- Consider orthopedic consultation for joint replacement
+- Follow up in 6 weeks

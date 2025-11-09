@@ -1,0 +1,19 @@
+Patient: Maria Garcia, 55 years
+Diagnosis: COVID-19 pneumonia, moderate severity
+Symptoms: Fever, dry cough, fatigue, oxygen saturation 92% on room air
+
+Medications:
+- Dexamethasone 6mg once daily for 10 days
+- Remdesivir 200mg IV day 1, then 100mg daily for 4 days
+- Enoxaparin 40mg subcutaneous daily
+- Acetaminophen 650mg every 6 hours as needed for fever
+- Albuterol MDI 2 puffs every 6 hours as needed
+
+Instructions:
+- Supplemental oxygen to maintain SpO2 >94%
+- Monitor oxygen saturation every 4 hours
+- Prone positioning while awake
+- Isolation precautions
+- High-protein nutrition
+- Return to ED if respiratory distress worsens
+- Post-COVID clinic follow up

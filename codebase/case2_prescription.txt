@@ -1,0 +1,16 @@
+Patient: Sarah Johnson, 32 years
+Diagnosis: Chronic migraine without aura
+Symptoms: Unilateral throbbing headache, photophobia, phonophobia, nausea
+
+Medications:
+- Sumatriptan 50mg - 1 tablet at headache onset, may repeat in 2 hours if needed
+- Propranolol 40mg - 1 tablet twice daily for prophylaxis
+- Naproxen 500mg - twice daily for breakthrough pain
+- Ondansetron 4mg - every 8 hours as needed for nausea
+
+Instructions:
+- Limit trigger factors (stress, lack of sleep, certain foods)
+- Maintain headache diary
+- Avoid medication overuse
+- Follow up in 4 weeks for prophylaxis assessment
+- Emergency department for severe, sudden headache

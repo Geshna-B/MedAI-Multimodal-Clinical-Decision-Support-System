@@ -1,0 +1,16 @@
+Patient: John Smith, 45 years
+Diagnosis: Community-acquired pneumonia
+Symptoms: Fever (102°F), productive cough with green sputum, shortness of breath, chest pain
+
+Medications:
+- Amoxicillin-Clavulanate 875mg/125mg - 1 tablet twice daily for 7 days
+- Acetaminophen 500mg - 1-2 tablets every 6 hours as needed for fever
+- Guaifenesin 600mg - 1 tablet twice daily for cough
+- Ibuprofen 400mg - every 8 hours for pain and inflammation
+
+Instructions:
+- Complete full course of antibiotics
+- Rest and increase fluid intake
+- Use humidifier for cough relief
+- Return immediately if breathing difficulties worsen
+- Follow up in 7 days for re-evaluation
